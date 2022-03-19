@@ -1,0 +1,422 @@
+[
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001340155",
+            "name": "Atticus",
+            "description": "Classy green summer hat to wear in the summer",
+            "price": 53.99,
+            "category": 1,
+            "rating": 4.6,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5689.png",
+            "image": "10000.png"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001600425",
+            "name": "Gerald",
+            "description": "Fancy dinner hat made with the finest material",
+            "price": 70.99,
+            "category": 1,
+            "rating": 4.6,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5691.png",
+            "image": "2000.png"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001730010",
+            "name": "Donovan",
+            "description": "Fancy dinner hat made with the finest material with blue color",
+            "price": 70.99,
+            "category": 1,
+            "rating": 4.9,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5695.png",
+            "image": "30000.png"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5001890157",
+            "name": "Winston",
+            "description": "Senior hat made with the strongest material",
+            "price": 169.99,
+            "category": 1,
+            "rating": 4.0,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5696.png",
+            "image": "40000.png"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002111605",
+            "name": "Norman",
+            "description": "The top seller Norman is an every day hat",
+            "price": 39.99,
+            "category": 1,
+            "rating": 5.0,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5697.png",
+            "image": "50000.png"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002260206",
+            "name": "Charlotte",
+            "description": "Fancy beach hat made with a light material",
+            "price": 19.99,
+            "category": 1,
+            "rating": 3.7,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5699.png",
+            "image": "60000.png"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002440521",
+            "name": "Dorothy",
+            "description": "Dorothy is an old school hat made for senior people",
+            "price": 59.0,
+            "category": 1,
+            "rating": 4.4,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5701.png",
+            "image": "70000.png"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002601115",
+            "name": "Elizabeth",
+            "description": "Fancy beach hat made with a light material",
+            "price": 24.99,
+            "category": 1,
+            "rating": 4.5,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5702.png",
+            "image": "80000.png"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002690715",
+            "name": "Finnegan",
+            "description": "Funeral hat with a dark black color",
+            "price": 49.99,
+            "category": 1,
+            "rating": 4.7,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5703.png",
+            "image": "90000.png"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002701115",
+            "name": "Leopold",
+            "description": "Fancy white New England hat made with the finest material",
+            "price": 239.99,
+            "category": 1,
+            "rating": 4.8,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5709.png",
+            "image": "91000.png"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+            "sku": "Cassandra",
+            "name": "Chef Designs Black-Trimmed Cook ShirtBig & Tall",
+            "description": "Stylish red summer glasses for women",
+            "price": 29.99,
+            "category": 2,
+            "rating": 3.2,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG0.png",
+            "image": "92000.png"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002820069",
+            "name": "Simon",
+            "description": "light weight glasses for daily use",
+            "price": 19.99,
+            "category": 2,
+            "rating": 4.6,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG1.png",
+            "image": "93000.png"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002820147",
+            "name": "Kevin",
+            "description": "light weight black glasses for daily use",
+            "price": 9.99,
+            "category": 2,
+            "rating": 3.2,
+            "image_url": "http://pngimg.com/image/4386",
+            "image": "94000.png"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002910572",
+            "name": "Dave",
+            "description": "Sporty light weight glasses made for running",
+            "price": 26.99,
+            "category": 2,
+            "rating": 4.7,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG3.png",
+            "image": "95000.png"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5002990740",
+            "name": "Cameron",
+            "description": "Fancy summer glasses in gold and black",
+            "price": 89.99,
+            "category": 2,
+            "rating": 4.8,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG10.png",
+            "image": "96000.png"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003050248",
+            "name": "Alicia",
+            "description": "Moderna blue glasses made for daily use",
+            "price": 19.99,
+            "category": 2,
+            "rating": 4.4,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG11.png",
+            "image": "97000.png"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003070787",
+            "name": "James",
+            "description": "Modern black glasses perfect for daily use at the office",
+            "price": 33.99,
+            "category": 2,
+            "rating": 4.4,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG12.png",
+            "image": "98000.png"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003090182",
+            "name": "Beckham",
+            "description": "Fancy summar glasses in red and black",
+            "price": 59.99,
+            "category": 2,
+            "rating": 4.8,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG18.png",
+            "image": "99000.png"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003090186",
+            "name": "Vivian",
+            "description": "Awesome party glasses in the color black",
+            "price": 44.99,
+            "category": 2,
+            "rating": 5.0,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG19.png",
+            "image": "99100.png"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003161326",
+            "name": "Kenny",
+            "description": "Cool pilot glasses in the color black",
+            "price": 64.99,
+            "category": 2,
+            "rating": 4.7,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG23.png",
+            "image": "99200.png"
+        }
+    },
+    {
+        "pk": 21,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003230723",
+            "name": "Marcus",
+            "description": "Cool sport glasses in the color black",
+            "price": 60.99,
+            "category": 3,
+            "rating": 4.3,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG26.png",
+            "image": "99300.png"
+        }
+    },
+    {
+        "pk": 22,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003270936",
+            "name": "Samuel",
+            "description": "Cool leight weight sport glasses in the color black",
+            "price": 76.99,
+            "category": 3,
+            "rating": 5.0,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG27.png",
+            "image": "99400.png"
+        }
+    },
+    {
+        "pk": 23,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003360384",
+            "name": "Steve",
+            "description": "Fancy glasses in chrome and black color",
+            "price": 99.99,
+            "category": 3,
+            "rating": 4.8,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG46.png",
+            "image": "99500.png"
+        }
+    },
+    {
+        "pk": 24,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003440111",
+            "name": "Ranger",
+            "description": "Classic Ranger hat in color dark brown",
+            "price": 82.0,
+            "category": 3,
+            "rating": 4.8,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5710.png",
+            "image": "99600.png"
+        }
+    },
+    {
+        "pk": 25,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003540313",
+            "name": "Estelle",
+            "description": "Classy hat from Estelle in white with blue details",
+            "price": 106.99,
+            "category": 3,
+            "rating": 4.0,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5712.png",
+            "image": "99700.png"
+        }
+    },
+    {
+        "pk": 26,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003560513",
+            "name": "Connor",
+            "description": "A nice beige daily hat from Connors",
+            "price": 241.99,
+            "category": 4,
+            "rating": 4.4,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5714.png",
+            "image": "99800.png"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003560948",
+            "name": "Humphrey",
+            "description": "Old school daily hat in the color black with the finest material",
+            "price": 338.99,
+            "category": 4,
+            "rating": 5.0,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5715.png",
+            "image": "99900.png"
+        }
+    },
+    {
+        "pk": 28,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003570628",
+            "name": "Olivia",
+            "description": "A clear red dinner hat from Olivia",
+            "price": 53.99,
+            "category": 4,
+            "rating": 4.3,
+            "image_url": "http://pngimg.com/uploads/hat/hat_PNG5719.png",
+            "image": "99910.png"
+        }
+    },
+    {
+        "pk": 29,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003620308",
+            "name": "Kingsley",
+            "description": "A Kingsley is an every day fancy eyewear",
+            "price": 159.99,
+            "category": 4,
+            "rating": 4.6,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG50.png",
+            "image": "99920.png"
+        }
+    },
+    {
+        "pk": 30,
+        "model": "products.product",
+        "fields": {
+            "sku": "pp5003690115",
+            "name": "Aurora",
+            "description": "You can't have a bad night out with the new Aurora glasses",
+            "price": 72.99,
+            "category": 4,
+            "rating": 5.0,
+            "image_url": "http://pngimg.com/uploads/glasses/glasses_PNG52.png",
+            "image": "99930.png"
+        }
+    }
+]
