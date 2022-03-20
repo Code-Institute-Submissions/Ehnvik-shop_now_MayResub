@@ -34,8 +34,21 @@ body {
 }
 
 .btn-black {
-    background: black;
+    background: #c75b14;
     color: white;
+}
+
+.btn-outline-black {
+    background: white;
+    color: black !important; /* use important to override link colors for <a> elements */
+    border: 1px solid black;
+}
+
+.btn-outline-black:hover,
+.btn-outline-black:active,
+.btn-outline-black:focus {
+    background: rgba(199, 91, 20, 0.8);
+    color: white !important;
 }
 
 .shop-now-button:hover,
@@ -44,12 +57,16 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: rgba(199, 91, 20, 0.7);
+    background: rgba(199, 91, 20, 0.8);
     color: white;
 }
 
 .text-black {
     color: #222 !important;
+}
+
+.text-black:hover {
+    background: ;
 }
 
 
