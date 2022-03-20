@@ -143,8 +143,8 @@
         "pk": 11,
         "model": "products.product",
         "fields": {
-            "sku": "Cassandra",
-            "name": "Chef Designs Black-Trimmed Cook ShirtBig & Tall",
+            "sku": "pp5001739910",
+            "name": "Cassandra",
             "description": "Stylish red summer glasses for women",
             "price": 29.99,
             "category": 2,
