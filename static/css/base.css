@@ -117,6 +117,18 @@ a.category-badge > span.badge:hover {
     height: 2px;
 }
 
+.arrow-success {
+    border-bottom-color: #c75b14 !important;
+}
+
+
+
+.bag-notification-wrapper {
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
 
 /* -------------------------------- Media Queries */
 
