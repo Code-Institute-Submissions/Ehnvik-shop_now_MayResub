@@ -47,8 +47,7 @@ body {
 .btn-outline-black:hover,
 .btn-outline-black:active,
 .btn-outline-black:focus {
-    background: rgba(199, 91, 20, 0.8);
-    color: white !important;
+    color: #c75b14 !important;
 }
 
 .shop-now-button:hover,
@@ -64,11 +63,6 @@ body {
 .text-black {
     color: #222 !important;
 }
-
-.text-black:hover {
-    background: ;
-}
-
 
 .border-black {
     border: 1px solid black !important;
@@ -89,8 +83,7 @@ body {
 }
 
 a.category-badge > span.badge:hover {
-    background: #c75b14 !important;
-    color: #fff !important;
+    color: #c75b14 !important;
 }
 
 .btt-button {
