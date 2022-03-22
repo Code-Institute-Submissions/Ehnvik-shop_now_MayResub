@@ -98,4 +98,61 @@ The Shop Now is a website for the Shop Now business. The websites main purpose i
 
   ![Facebook Page](https://user-images.githubusercontent.com/87748379/159588956-6f6f5bc0-0c81-477b-b85d-872f18d86463.png)
 
+  ### **Test**
+
+  - I have tested that this website works in different browsers: Firefox, Chrome and Safari.
+  - I confirm that this website is responsive and works on all standard screen sizes using the devtools device toolbar.
+  - I confirm that all links on website is working and are not broken.
+  - I confirm that the link in the social media logotype works and that the social media website opens up in a new window. 
+  - I confirm that forms on the website works and that the customers gets the email confirmation afterwards.
+  - I confirm that the search bar is finding the correct product.
+  - I confirm that the product sorting and filtering is working properly.
+
+  #### **Testing**
+
+  I have tested the following functionality:
+
+  #### **That all the links work properly**
+
+  ![Main Page](https://user-images.githubusercontent.com/87748379/159591726-7d304835-3de9-4768-9944-762f43af7896.png)
+
+  #### **That All Products page works**
+
+  ![All Products](https://user-images.githubusercontent.com/87748379/159592418-2bdbd918-ee2e-4245-a217-fc051ca40da2.png)
+
+
+  #### **By Category works**
+
+  ![Category](https://user-images.githubusercontent.com/87748379/159592465-6fc7b908-312b-4e90-bccf-1951ed43b863.png)
+
+  #### **By Rating works**
+
+  ![Product by Rating](https://user-images.githubusercontent.com/87748379/159592627-ebc29b2a-82f6-4ca7-8371-7842a9071f7e.png)
+
+  #### **By Price works**
+
+  ![Product by Price](https://user-images.githubusercontent.com/87748379/159592642-ec056c0d-9181-40f9-a903-b5ab6850db88.png)
+
+  #### **Products Detail page with functionalities works**
+
+  ![Products Detail](https://user-images.githubusercontent.com/87748379/159592974-9d585ce0-2f03-4c8c-ad65-9f8bf31c945c.png)
+
+  #### **Bag page with functionalities works**
+
+  ![Shopping Bag](https://user-images.githubusercontent.com/87748379/159593283-48bd79bd-82f2-4ef4-9f66-a8dec3e678dc.png)
+
+  #### **By Price works**
+
+  #### **By Price works**
+
+  #### **By Price works**
+
+  #### **By Price works**
+
+  #### **By Price works**
+
+  #### **By Price works**
+
+
+
 
