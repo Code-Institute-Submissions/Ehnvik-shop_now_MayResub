@@ -82,3 +82,15 @@ The Shop Now is a website for the Shop Now business. It is made for both male an
   - The store owner can add new products directly on the website. Which makes it easy to improve the website.
 
  ![Add Products](https://user-images.githubusercontent.com/87748379/159586990-c1f17048-5ef6-4f7b-badb-7b367cd6b8c9.png)
+
+ ### **Admin**
+  - The store owner can from the admin page administrate email adresses, products, categories, orders and users. This makes it possible to do big changes to the website without coding. 
+  - It is possible to add, delete or update orders.
+  - It is possible to add, delete or update products.
+  - It is possible to add, delete or update categories.
+  - It is possible to add, delete or update users.
+  - It is possible to add, delete or update email addresses.
+
+ ![Admin Page](https://user-images.githubusercontent.com/87748379/159587915-0f324f9c-840b-48c5-93ac-55281045d782.png)
+
+
