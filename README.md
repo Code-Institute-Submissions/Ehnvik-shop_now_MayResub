@@ -63,16 +63,22 @@ The Shop Now is a website for the Shop Now business. It is made for both male an
 
  ![Checkout Page](https://user-images.githubusercontent.com/87748379/159584437-940fc36b-1c24-4812-a13c-c7a72445e4d5.png)
 
- ### **Profile**
-  - The Catering section gives information to the user that the café also offers catering. The section also includes a form.
-  - The form collect the users contact information so the café personnel can come back to the user with more information about catering.
-  - The user i required to fill in every information-box in the form. So the café don´t miss out on any important information.
+ ### **Checkout Page Success**
+  - The customer gets a summary of the purchase so they can verify that the order is correct.
+  - A confirmation email with the order information is sent to the customers email, so the customer knows the order is complete.
+  - The customer can go to the latest deals by clicking on the "Now check out the latest deals!" button below the order summary. If they want to keep shopping. 
 
- ![Catering](https://user-images.githubusercontent.com/87748379/131548601-611650c5-7db2-41f5-ac80-53d396cc94c5.JPG)
+ ![Checkout Success](https://user-images.githubusercontent.com/87748379/159585766-276fd602-2d8d-45d5-abba-cd59ad3f2a7e.png)
+
+ ### **Profile**
+  - The customer can register a profile on the website using their email address. 
+  - Before the profile is valid they need to confirm their email address by clicking on the email confirmation link. 
+  - If the customer wants to see there order history, then they can find it on their profile. 
+  - The customer can add their personal information there profile that they can use on their next purchase.
+
+ ![Customer Profile](https://user-images.githubusercontent.com/87748379/159586369-89f49406-91e4-4ed5-a2ff-dac0f5373049.png)
 
  ### **Product Management**
-  - The Catering section gives information to the user that the café also offers catering. The section also includes a form.
-  - The form collect the users contact information so the café personnel can come back to the user with more information about catering.
-  - The user i required to fill in every information-box in the form. So the café don´t miss out on any important information.
+  - The store owner can add new products directly on the website. Which makes it easy to improve the website.
 
- ![Catering](https://user-images.githubusercontent.com/87748379/131548601-611650c5-7db2-41f5-ac80-53d396cc94c5.JPG)
+ ![Add Products](https://user-images.githubusercontent.com/87748379/159586990-c1f17048-5ef6-4f7b-badb-7b367cd6b8c9.png)
