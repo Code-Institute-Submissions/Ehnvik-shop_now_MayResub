@@ -23,7 +23,7 @@ The Shop Now is a website for the Shop Now business. It is made for both male an
 
 
 ### **Footer**
-  - The footer has the same orange and white theme as the rest of the page so page feels more united.
+  - The footer has the same orange and white theme as the rest of the page so the page feels more united.
   - The footer contains a direct link to the Shop Now facebook page. Where customer finds information about the stores latest deals and products.
 
   ![Footer](https://user-images.githubusercontent.com/87748379/159577779-6ba5c854-cfdf-4f47-adaf-1582b8def1eb.png)
@@ -43,6 +43,7 @@ The Shop Now is a website for the Shop Now business. It is made for both male an
   - If you click on the product picture a new window opens up with a larger picture of the product. So the customer have a better view of the product they want to buy.
   - Admin can edit and delete the product on this page also.
   - The customer gets a preview of the shopping bag when adding or updating a product. So they always know what products they have in the bag and how much they cost.
+  - The customer gets notified that they need to spend a minimum of 25$ to get free delivery if they add a product that cost less than 25$. 
 
   ![Product Detaill](https://user-images.githubusercontent.com/87748379/159580989-dd179797-d065-4085-92f6-2ebb29a325d1.png)
 
@@ -55,11 +56,12 @@ The Shop Now is a website for the Shop Now business. It is made for both male an
 
 
  ### **Checkout Page**
-  - The Catering section gives information to the user that the café also offers catering. The section also includes a form.
-  - The form collect the users contact information so the café personnel can come back to the user with more information about catering.
-  - The user i required to fill in every information-box in the form. So the café don´t miss out on any important information.
+  - The customer gets a last summary of the products they are about to purchase.
+  - The customer are able to fill in their personal information so the product is sent to the correct adress.
+  - The customer are able to pay with their credit card in a secure way using webhook. So the company gets the money and the customer gets the product.
+  - The customers personal information gets automatically added to the fields if they are logged into their profile.
 
- ![Catering](https://user-images.githubusercontent.com/87748379/131548601-611650c5-7db2-41f5-ac80-53d396cc94c5.JPG)
+ ![Checkout Page](https://user-images.githubusercontent.com/87748379/159584437-940fc36b-1c24-4812-a13c-c7a72445e4d5.png)
 
  ### **Profile**
   - The Catering section gives information to the user that the café also offers catering. The section also includes a form.
