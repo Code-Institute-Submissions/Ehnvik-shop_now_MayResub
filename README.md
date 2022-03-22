@@ -1,5 +1,5 @@
 # **Shop Now**
-The Shop Now is a website for the Shop Now business. It is made for both male and females, but primary for adults. Its main purpose is the sell glasses and hats to people online. 
+The Shop Now is a website for the Shop Now business. The websites main purpose is the sell glasses and hats to people online in a secure way. 
 
 ![Am I Responsive Shop Now](https://user-images.githubusercontent.com/87748379/159572629-f7df466b-0bd2-4b67-ad7d-8b8b6a32ad7f.png)
 
@@ -92,5 +92,10 @@ The Shop Now is a website for the Shop Now business. It is made for both male an
   - It is possible to add, delete or update email addresses.
 
  ![Admin Page](https://user-images.githubusercontent.com/87748379/159587915-0f324f9c-840b-48c5-93ac-55281045d782.png)
+
+  ### **Facebook Page**
+   - The website has a link to its Facebook page. The customer can from here get the latest info of what the store can offer. They get this info first by following the page.  
+
+  ![Facebook Page](https://user-images.githubusercontent.com/87748379/159588956-6f6f5bc0-0c81-477b-b85d-872f18d86463.png)
 
 
