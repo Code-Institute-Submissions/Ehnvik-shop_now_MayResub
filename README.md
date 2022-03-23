@@ -3,6 +3,9 @@ The Shop Now is a website for the Shop Now business. The websites main purpose i
 
 ![Am I Responsive Shop Now](https://user-images.githubusercontent.com/87748379/159572629-f7df466b-0bd2-4b67-ad7d-8b8b6a32ad7f.png)
 
+### **Link to project:**
+https://ehnvik-shop-now.herokuapp.com/
+
 ## **Features**
 
 ### **Navigation**
@@ -141,17 +144,68 @@ The Shop Now is a website for the Shop Now business. The websites main purpose i
 
   ![Shopping Bag](https://user-images.githubusercontent.com/87748379/159593283-48bd79bd-82f2-4ef4-9f66-a8dec3e678dc.png)
 
-  #### **By Price works**
+  #### **Checkout page with functionalities works**
 
-  #### **By Price works**
+  ![Checkout Page](https://user-images.githubusercontent.com/87748379/159593731-3505e573-7ad3-4140-ac87-e5800a60c46a.png)
 
-  #### **By Price works**
+  #### **Checkout Success page with functionalities works**
 
-  #### **By Price works**
+  ![Checkout Success page](https://user-images.githubusercontent.com/87748379/159593893-04a91242-3e65-44ca-992d-e88ce4d7a346.png)
 
-  #### **By Price works**
+  #### **Register Profile works**
 
-  #### **By Price works**
+  ![Register Profile](https://user-images.githubusercontent.com/87748379/159594878-3a8af141-3488-458f-80d8-3242da82b2db.png)
+
+  #### **Login and update profile works**
+
+  ![Login Profile](https://user-images.githubusercontent.com/87748379/159595077-597c0c9d-ae50-4485-9807-d99023a61e26.png)
+
+  #### **Confirmation and verification emails work**
+
+  ![Order Confirmation Email](https://user-images.githubusercontent.com/87748379/159595238-68d62b24-a044-428e-a626-9477be5661f1.png)
+
+  ![Register Profile Verify](https://user-images.githubusercontent.com/87748379/159595266-e6670e44-0eca-4489-979b-56b42129e46c.png)
+
+  ![Reset Password Email](https://user-images.githubusercontent.com/87748379/159595272-6d273fc8-a58c-4659-bc62-881b5fe84565.png)
+
+  #### **Toast pop up windows work**
+
+  ![Toasts](https://user-images.githubusercontent.com/87748379/159595509-3d8544f4-684c-458d-8644-a56eb2eed316.png)
+
+  #### **Product Management page with add product functionality works**
+
+  ![Add Product](https://user-images.githubusercontent.com/87748379/159596012-c9d0a149-0b0d-4bd5-8021-c9783c7d59ce.png)
+
+  #### **Admin page with add, update and delete functionality works**
+
+  ![Admin Page](https://user-images.githubusercontent.com/87748379/159596176-104da374-2c02-4022-98f1-bb5634c9b052.png)
+
+  #### **That Stripe payment with webhook functionality works**
+
+  ![Stripe Payment](https://user-images.githubusercontent.com/87748379/159596413-d37c5a7e-6202-4571-81b7-e33defa327f7.png)
+
+
+### **Validator Testing**
+
+#### **I have validated the following languages:**
+
+ - CSS = Validated with no errors.
+ - HTML = Validated with no errors except for the Django code in it.
+ - Python =  Validated with no errors except for line to long errors.
+ - Javascript = Validated with no errors except for jQuery that the validator couldn't read. 
+
+ ![CSS Validator](https://user-images.githubusercontent.com/87748379/159596641-438e3d79-6c1d-4db8-a9e1-9205dee82909.png)
+
+ ![HTML Validator](https://user-images.githubusercontent.com/87748379/159596539-58486051-8be8-423a-afed-d9a6735dfa68.png)
+
+ ![Python Validator](https://user-images.githubusercontent.com/87748379/159596394-74b016ab-0613-4783-91af-5b253e9787d4.png)
+
+ ![Javascript Validator](https://user-images.githubusercontent.com/87748379/159596616-e60602da-00d6-475a-826e-088f0fb22916.png)
+
+ 
+
+
+
 
 
 
