@@ -276,7 +276,7 @@ The Performance and SEO is excellent. With ok results on Accesibility and Best P
 - Product images from: https://pngimg.com/
 - Background image from: https://pixabay.com/sv/photos/m%c3%a4n-kvinna-tidning-b%c3%a4nk-parkera-6245003/
 - Font from Google API
-- Logos from Fontawesom
+- Logos from Fontawesome.com
 
 
 
