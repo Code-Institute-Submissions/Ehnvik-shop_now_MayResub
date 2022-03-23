@@ -6,6 +6,38 @@ The Shop Now is a website for the Shop Now business. The websites main purpose i
 ### **Link to project:**
 https://ehnvik-shop-now.herokuapp.com/
 
+## **User Stories**
+
+### **As a customer, I would like to _____**
+
+- be able to see what the shop has to offer, so that I can decide if I want to by any of the products
+- be able to view individual product details, so I can get more information about the product before making an purchase decision
+- have a easy overview over the website, so I can navigate myself on it
+- identify deals and new products so I can save money on products I want to buy or buy the latest products on the website
+- be able to view the total of my purchase at any time so that I don't spend too much
+- be able to search for a product by name or description so I can find a specific product I'd like to purchase
+- be able to sort the products by price or rating so I can find the best reviewed products or the best priced products
+- have a summary of the products I have chosen, so I can decide if I need remove or change a product before buying it
+- be able to feel that my personal and payment information is secure so that I can confidently provide the needed information to make a purchase
+- be able to store my personal information and order history in my profile so I can go back and view it in the future and also make future purchase more easy
+- be able to receive an email confirmation after my purchase so that I can verify that I haven't made any mistakes
+- be able to reset my password if I forget it so that I can log in to my profile again
+- be able to adjust the quantity of the specific item in my bag so that I can easily make changes to my purchase before checkout
+- follow the store on social media so I can find the latest products or deals
+
+### **As a store owner, I would like to _____**
+
+- be able to update and delete information on the website so I can improve the store
+- be able to add new products so that I can add new products to my store
+
+## **UX**
+
+- All the important navigation links are located on top on every page
+- The forms are easy to understand with clear placeholders
+- The products on the website are easy to find in the search bar
+- If the customer don´t know the name of the product, then they can easily find using the filter functionality
+- The toast pop up windows gives the customer a confirmation respond when making a change on the website
+
 ## **Features**
 
 ### **Navigation**
@@ -202,7 +234,7 @@ https://ehnvik-shop-now.herokuapp.com/
 
  ![Javascript Validator](https://user-images.githubusercontent.com/87748379/159596616-e60602da-00d6-475a-826e-088f0fb22916.png)
 
- 
+
 
 
 
