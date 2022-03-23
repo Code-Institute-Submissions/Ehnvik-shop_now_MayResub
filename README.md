@@ -234,6 +234,12 @@ https://ehnvik-shop-now.herokuapp.com/
 
  ![Javascript Validator](https://user-images.githubusercontent.com/87748379/159596616-e60602da-00d6-475a-826e-088f0fb22916.png)
 
+#### **Lighthouse testing**
+
+![lighthouse-shop-now](https://user-images.githubusercontent.com/87748379/159603348-72ecb239-50e2-4364-962e-2caaeaa4f3c6.png)
+
+The Performance and SEO is excellent. With ok results on Accesibility and Best Practice.
+
 ## **Deployment**
 
 1. Created the app using a unique name in Heroku.
@@ -260,6 +266,18 @@ https://ehnvik-shop-now.herokuapp.com/
 13. Push all the changes to Github/Heroku and all the static files will be uploaded to S3 bucket.
 14. Create a Media Folder in AWS.
 15. Upload all the images to the folder.
+
+## **Credits**
+
+- Code Institute tutorials (CKZ8780 Chris Zielinski)
+- Tutor Support
+- Slack
+
+- Product images from: https://pngimg.com/
+- Background image from: https://pixabay.com/sv/photos/m%c3%a4n-kvinna-tidning-b%c3%a4nk-parkera-6245003/
+- Font from Google API
+- Logos from Fontawesom
+
 
 
 
