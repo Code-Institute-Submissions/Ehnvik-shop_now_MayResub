@@ -234,6 +234,34 @@ https://ehnvik-shop-now.herokuapp.com/
 
  ![Javascript Validator](https://user-images.githubusercontent.com/87748379/159596616-e60602da-00d6-475a-826e-088f0fb22916.png)
 
+## **Deployment**
+
+1. Created the app using a unique name in Heroku.
+2. Went to the Resources tab in Heroku and searched for Heroku Postgres in the 'Add-Ons' section.
+3. Selected the free Hobby level.
+4. Updated the env.py file within my local workspace with the DATABASE_URL details, and the settings.py to connect to the database using the dj_database_url package.
+5. Migrated the files and pushed them to github and then to Heroku, but without the static files. 
+6. Went to the Settings tab in Heroku and clicked on the Reveal Config Vars button.
+7. Copied and pasted the env.py default variables into Heroku's Config Vars settings.
+
+![Secret Keys](https://user-images.githubusercontent.com/87748379/159601388-be68865e-e948-4338-b414-11e3100c7114.png)
+
+8. Went to AWS and logged in to my account.
+9. Created a new bucket on AWS with all the necessary settings.
+10. Downloaded the secret AWS and paste it in to Heroku Config Vars.
+
+![Secret Keys AWS](https://user-images.githubusercontent.com/87748379/159602280-7e73b2c7-1518-4a1e-97b3-f0342eb94a7e.png)
+
+11. Deleted the DISABLE_COLLECTSTATIC=1 variable in Heroku.
+12. Added following code into Settings.py
+
+![Settings](https://user-images.githubusercontent.com/87748379/159602607-b2d01d59-0c25-41b2-b4af-9cb91fe99656.png)
+
+13. Push all the changes to Github/Heroku and all the static files will be uploaded to S3 bucket.
+14. Create a Media Folder in AWS.
+15. Upload all the images to the folder.
+
+
 
 
 
