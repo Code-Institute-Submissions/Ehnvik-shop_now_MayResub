@@ -32,6 +32,7 @@ if 'DEVELOPMENT' in os.environ:
 else:
     DEBUG = False
 
+
 ALLOWED_HOSTS = ['ehnvik-shop-now.herokuapp.com', 'localhost']
 
 
