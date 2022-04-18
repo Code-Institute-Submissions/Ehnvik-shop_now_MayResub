@@ -5,3 +5,4 @@ urlpatterns = [
     path('', views.index, name='home')
 ]
 
+handler404 = 'home.views.error_404_view'
