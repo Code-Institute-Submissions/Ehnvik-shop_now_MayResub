@@ -10,4 +10,4 @@ def index(request):
 
 
 def error_404_view(request, exception):
-    return render(request,'404.html')
+    return render(request, '404.html')
