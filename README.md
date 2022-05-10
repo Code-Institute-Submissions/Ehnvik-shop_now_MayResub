@@ -222,13 +222,13 @@ https://ehnvik-shop-now.herokuapp.com/
 #### **I have validated the following languages:**
 
  - CSS = Validated with no errors.
- - HTML = Validated with no errors except for the Django code in it.
+ - HTML = Validated with no errors.
  - Python =  Validated with no errors except for line to long errors.
  - Javascript = Validated with no errors except for jQuery that the validator couldn't read. 
 
  ![CSS Validator](https://user-images.githubusercontent.com/87748379/159596641-438e3d79-6c1d-4db8-a9e1-9205dee82909.png)
 
- ![HTML Validator](https://user-images.githubusercontent.com/87748379/159596539-58486051-8be8-423a-afed-d9a6735dfa68.png)
+ ![HTML Validator](https://user-images.githubusercontent.com/87748379/167713686-e8fb3feb-611a-4df1-8b9c-64f5c3eecc78.png)
 
  ![Python Validator](https://user-images.githubusercontent.com/87748379/159596394-74b016ab-0613-4783-91af-5b253e9787d4.png)
 
